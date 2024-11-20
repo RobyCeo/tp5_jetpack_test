@@ -1,4 +1,4 @@
-package com.example.jetpack_test_git_robertoimport androidx.compose.animation.core.*
+import androidx.compose.animation.core.*
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.background
